@@ -1,7 +1,7 @@
 ---
 name: writing-for-computer-science
 metadata:
-  version: "1.1.0"
+  version: "1.0.0"
 description: |
   Review, revise, and draft scientific and technical writing (computing,
   mathematics, theses, papers, reports) to the standards of Justin Zobel's
@@ -62,10 +62,7 @@ When given text (or asked to write/review something):
 - **Clarity dominates.** Effort spent parsing form is effort not spent on
   content. Great results do not survive bad writing.
 - **Front-load importance.** Many readers accept or reject a paper from a
-  quick scan; state the main results early and do not conceal them. If the
-  venue wants a five-part introduction (context, problem, related work ending
-  on limitations, contributions with action verbs, organization), use it — see
-  `references/01-article-structure.md`.
+  quick scan; state the main results early and do not conceal them.
 - **Be precise.** Define terms and notation at first use; state the scope and
   limitations of claims; state what you are *not* claiming.
 - **Be fair to prior work.** Attribute correctly, neither belittling nor

@@ -63,8 +63,5 @@ from it, not the book itself.
 
 ## Version history
 
-- **1.1.0** — Added the five-part introduction template (context, problem,
-  related work ending on limitations, measurable contributions, organization)
-  to the article-structure reference, without overriding Zobel.
 - **1.0.0** — Initial release. Workflow, core rule cards, and six reference
   files distilled from all 11 chapters.
