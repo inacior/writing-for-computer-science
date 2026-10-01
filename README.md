@@ -1,4 +1,4 @@
-# Sci-Wri
+# writing-for-computer-science
 
 A skill that reviews, revises, and drafts scientific and technical writing to
 the standards of Justin Zobel's *Writing for Computer Science*. It distills the
@@ -7,28 +7,35 @@ and mathematics.
 
 ## Installation
 
-Copy the skill folder into your agent's skills directory, for example:
+Install with the skills CLI:
+
+```bash
+npx skills add inacior/writing-for-computer-science
+```
+
+Or copy the folder into your agent's skills directory, for example:
 
 ```bash
 mkdir -p ~/.codex/skills
-cp -R sci-wri ~/.codex/skills/
+cp -R writing-for-computer-science ~/.codex/skills/
 ```
 
 For Claude Code or other agents, use their skills directory (e.g.
-`~/.claude/skills/sci-wri`) or register the path via the agent's skill config.
+`~/.claude/skills/writing-for-computer-science`) or register the path via the
+agent's skill config.
 
 ## Usage
 
 Invoke the skill, then paste the text:
 
 ```
-/sci-wri
+/writing-for-computer-science
 
 [your text]
 ```
 
-Or ask directly: "Review this abstract using sci-wri" / "Rewrite this
-introduction to match Writing for Computer Science."
+Or ask directly: "Review this abstract using the Writing for Computer Science
+skill" / "Rewrite this introduction to match Writing for Computer Science."
 
 ## What it covers
 

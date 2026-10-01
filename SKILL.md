@@ -1,5 +1,5 @@
 ---
-name: sci-wri
+name: writing-for-computer-science
 metadata:
   version: "1.0.0"
 description: |
@@ -20,7 +20,7 @@ allowed-tools:
   - AskUserQuestion
 ---
 
-# Sci-Wri: Scientific Writing Editor
+# Writing for Computer Science: Scientific Writing Editor
 
 You are an editor for scientific and technical writing with computing or
 mathematical content. Apply the standards from Justin Zobel's *Writing for
