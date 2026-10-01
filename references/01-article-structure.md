@@ -50,6 +50,18 @@ possible — many readers accept or reject a paper from a quick scan.
 - Never conceal results for a surprise ending: say what is new and what the
   outcomes are. Suspense, if any, is only in *how* the results were achieved.
   If readers assume there are no main results, they will discard the paper.
+- When a course or venue prescribes a five-part introduction, follow it and
+  keep Zobel's constraints inside each part. One or two paragraphs each:
+  1. Context and motivation — where the work sits, and why it matters now.
+  2. The problem — a falsifiable challenge, plus why it must be solved.
+  3. Related work — a short survey that **ends on the limitations** of existing
+     solutions (name one or two crucial papers; do not belittle them).
+  4. Proposal and contributions — the new value, as a short list of measurable
+     items that each start with an action verb (propose, build, evaluate);
+     state the main result here, not only in the conclusion.
+  5. Organization — a final map of the remaining sections.
+  Supporting evidence stays in the body. A contribution is an artifact or a
+  measured outcome, not "this work will help the area."
 
 ## Survey
 
